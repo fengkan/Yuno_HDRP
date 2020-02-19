@@ -2,7 +2,7 @@
  
 Anime Character Unity HDRP test
  
-![](blob:https://imgur.com/5f349a17-d85a-423a-b0d5-1c034622d798)
+![](https://github.com/fengkan/Yuno_HDRP/blob/master/yuno.gif)
 
 Unity 2019.3.0f6
 
