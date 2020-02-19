@@ -2,7 +2,7 @@
  
 Anime Character Unity HDRP test
  
-![](https://im.ezgif.com/tmp/ezgif-1-c9e6def6ce2c.gif)
+![](blob:https://imgur.com/5f349a17-d85a-423a-b0d5-1c034622d798)
 
 Unity 2019.3.0f6
 
